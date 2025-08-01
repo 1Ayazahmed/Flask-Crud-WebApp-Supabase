@@ -276,7 +276,7 @@ We need the service_role key because:
 -> Has full database access (create, read, update, delete)
 -> Required for backend operations
 
-# service role key : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF5d2x1c2lueWVocW5ta2Zqb2t5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1Mzk3NjEzMSwiZXhwIjoyMDY5NTUyMTMxfQ.0wWXylB0FqCSOsYc19SW3bmcyjKCbZhYDaALzpv3Amo
+# service role key : your key
 ----------------------------------------------------------------------------------------------------------------
 
 
